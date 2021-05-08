@@ -1,0 +1,10 @@
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0001.jpg 94 146 119 159 57 146 81 159 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0002.jpg 95 128 119 140 60 128 84 140 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0003.jpg 95 162 120 175 56 163 81 176 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0004.jpg 69 145 93 158 39 142 60 155 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0005.jpg 113 141 134 154 78 145 103 158 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0006.jpg 83 140 107 153 46 140 70 154 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0007.jpg 83 122 107 134 48 122 72 134 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0008.jpg 83 159 108 172 44 158 69 172 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0009.jpg 52 143 76 155 25 139 45 152 8
+C:/Users/hasee/Desktop/Master_Project/Step2/Plan_B/ValidationSet/1440x810/0010.jpg 98 136 119 149 64 139 88 152 8
